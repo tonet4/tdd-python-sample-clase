@@ -1,4 +1,4 @@
-# Proyecto de ejemplo - Python TDD (Desarrollo guiado por test)
+# Proyecto de ejemplo - Python TDD (Desarrollo guiado por test) - 2022
 - Proyecto base para crear ejercicios de Python para los alumnos.
 - Incluye la configuración de GitHub Actions para ejecutar los tests automáticamente al subir los cambios a GitHub.
 - Se utilizan módulos de Python para separar los tests de los ejercicios.
