@@ -24,3 +24,4 @@ pytest
 - [Documentación oficial Python y GitHub Actions](https://docs.github.com/en/actions/guides/building-and-testing-python)
 - [Integración continua con Python en GitHub](https://mattsegal.dev/pytest-on-github-actions.html)
 - [Documentación sobre PyTest](https://docs.pytest.org/en/6.2.x/goodpractices.html#test-discovery)
+
