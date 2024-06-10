@@ -9,7 +9,7 @@ class TestClass:
 
     # Test para la operación dividir
     def test_div(self):
-        assert div(5,5) == -1
+        assert div(5,5) == 1
         assert div(10,2) == 5
         assert div(7,7) == 1
         assert div(24,12) == 2
